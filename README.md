@@ -1,4 +1,5 @@
 # coding
 all types of code
 
-# DEC 24
+# 24 DEC 2022
+1. Day3 adding and removing contraint in mysql
